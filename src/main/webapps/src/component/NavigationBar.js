@@ -15,6 +15,7 @@ export default function NavigationBar() {
           <Nav className="me-auto">
             <Nav.Link to="/student" className="nav-link">Add Patient</Nav.Link>
             <Nav.Link to="/listStudents" className="nav-link">View Patient</Nav.Link>
+            <Nav.Link to="/Regform" className="nav-link">Register</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
