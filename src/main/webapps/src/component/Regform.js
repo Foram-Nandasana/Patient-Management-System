@@ -15,6 +15,9 @@ export default function Regform() {
 
    <Form.Label>Password</Form.Label>
    <Form.Control type="password" placeholder="Enter password" />
+   
+   <Form.Label>Confirm Password</Form.Label>
+   <Form.Control type="password" placeholder="Enter again password" />
 <br></br>
  <Button variant="primary" type="submit">
    Submit
