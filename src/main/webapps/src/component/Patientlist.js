@@ -71,5 +71,6 @@ export default function patient(props) {
         </Card.Body>
       </Container>
     </div>
+  //
   );
 }
